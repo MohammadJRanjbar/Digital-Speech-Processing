@@ -37,9 +37,9 @@ Please find below a brief overview of the contents of this repository:
 
 4. `HW4/`: This homework consists of several key tasks: implementing a Multi-Layer Perceptron (MLP) from scratch for audio digit recognition, developing a Convolutional Neural Network (CNN) for music classification, and training a logistic regression model for speaker recognition.
 
-5. `HW5/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
+5. `HW5/`: This homework involves calculating gradients by hand to deepen understanding of optimization techniques. It also includes fine-tuning the Whisper model for Persian language processing and implementing an LSTM (Long Short-Term Memory) model for music genre recognition.
 
-6. `HW_Extera/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
+6. `Project/`: This assignment focuses on implementing a model for Persian speech emotion recognition. It includes training and evaluating multiple models, such as Huber and Wav2Vec, to enhance the performance of speech emotion recognition tasks.
 
 ## Disclaimer
 
