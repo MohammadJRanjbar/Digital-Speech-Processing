@@ -35,7 +35,7 @@ Please find below a brief overview of the contents of this repository:
 
 3. `HW3/`: In this homework, we explore various windowing techniques, including rectangular, Hann, cosine, and Hamming windows. Additionally, we focus on audio digit recognition using different feature extraction methods such as Mel-Frequency Cepstral Coefficients (MFCC), Linear Predictive Coding (LPC), and Zero-Crossing Rate (ZCR).
 
-4. `HW4/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
+4. `HW4/`: This homework consists of several key tasks: implementing a Multi-Layer Perceptron (MLP) from scratch for audio digit recognition, developing a Convolutional Neural Network (CNN) for music classification, and training a logistic regression model for speaker recognition.
 
 5. `HW5/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
 
