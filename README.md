@@ -33,7 +33,7 @@ Please find below a brief overview of the contents of this repository:
    
 2. `HW2/`: This homework assignment focuses on several key aspects of signal processing fundamentals. It includes questions related to the Fourier Transform, the implementation of the Discrete-Time Fourier Transform (DTFT), and the development of a low-pass filter. Additionally, the assignment involves implementing a Persian audio chatbot that connects to ChatGPT.
 
-3. `HW3/`: This assignment involves using JUnit-quickcheck and EvoSuite tools to generate automated test cases for a project management system. 
+3. `HW3/`: In this homework, we explore various windowing techniques, including rectangular, Hann, cosine, and Hamming windows. Additionally, we focus on audio digit recognition using different feature extraction methods such as Mel-Frequency Cepstral Coefficients (MFCC), Linear Predictive Coding (LPC), and Zero-Crossing Rate (ZCR).
 
 4. `HW4/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
 
