@@ -7,21 +7,21 @@ Welcome to my repository, which contains coursework for the Digital Speech Proce
 
 The course covers a broad range of topics including:
 
-*Speech Production and Perception*: Understanding speech signals, articulatory and acoustic phonetics, and the analysis of phonemes and syllables in both Persian and English.
+-**Speech Production and Perception**: Understanding speech signals, articulatory and acoustic phonetics, and the analysis of phonemes and syllables in both Persian and English.
 
-*Digital Signal Processing*: Fundamentals of signal processing, including Fourier and Z transforms.
+-**Digital Signal Processing**: Fundamentals of signal processing, including Fourier and Z transforms.
 
-*Statistics and Probability*: Basic principles of probability theory, various distributions, and estimation techniques.
+-**Statistics and Probability**: Basic principles of probability theory, various distributions, and estimation techniques.
 
-*Speech Signal Representation*: Techniques such as the source-filter model, Short-Time Fourier Transform (STFT), Linear Predictive Coding (LPC), cepstral analysis, and Mel-Frequency Cepstral Coefficients (MFCC).
+-**Speech Signal Representation**: Techniques such as the source-filter model, Short-Time Fourier Transform (STFT), Linear Predictive Coding (LPC), cepstral analysis, and Mel-Frequency Cepstral Coefficients (MFCC).
 
-*Machine Learning and Deep Learning*: Introduction to machine learning concepts, neural networks (including Perceptrons, Multi-Layer Perceptrons (MLP), Autoencoders, Convolutional Neural Networks (CNN), Generative Adversarial Networks (GAN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) networks, Attention Mechanisms, Transformers, BERT, and GPT).
+-**Machine Learning and Deep Learning**: Introduction to machine learning concepts, neural networks (including Perceptrons, Multi-Layer Perceptrons (MLP), Autoencoders, Convolutional Neural Networks (CNN), Generative Adversarial Networks (GAN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) networks, Attention Mechanisms, Transformers, BERT, and GPT).
 
-*Speech Recognition: Challenges*, evaluation methods, recognition techniques, including Dynamic Time Warping (DTW), Artificial Neural Networks (ANN), Hidden Markov Models (HMM), and deep learning approaches.
+-**Speech Recognition: Challenges**, evaluation methods, recognition techniques, including Dynamic Time Warping (DTW), Artificial Neural Networks (ANN), Hidden Markov Models (HMM), and deep learning approaches.
 
-*Speech Synthesis*: Methods and issues in text-to-speech synthesis, including formant synthesis, concatenative synthesis, statistical parametric synthesis, and deep learning-based synthesis.
+-**Speech Synthesis**: Methods and issues in text-to-speech synthesis, including formant synthesis, concatenative synthesis, statistical parametric synthesis, and deep learning-based synthesis.
 
-*Speech Enhancement*: Techniques for single-channel speech enhancement, noise recognition, evaluation metrics, spectral subtraction methods, and enhancement using HMM and deep learning.
+-**Speech Enhancement**: Techniques for single-channel speech enhancement, noise recognition, evaluation metrics, spectral subtraction methods, and enhancement using HMM and deep learning.
 
 
 
